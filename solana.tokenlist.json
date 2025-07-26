@@ -1,0 +1,29 @@
+{
+  "name": "Custom Token List",
+  "tags": {
+    "memecoin": {
+      "name": "Memecoin",
+      "description": "Satirical and fun memecoins"
+    },
+    "satire": {
+      "name": "Satire",
+      "description": "Tokens with a satirical theme"
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "5TyeUb62b1to8J4WsyZ1Mqo72HHJdDV7CxDqzSEARSRu",
+      "symbol": "IRS",
+      "name": "TaxEvasionCoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/svitisabella/irs-coin-metadata/main/logo.png",
+      "tags": ["memecoin", "satire"]
+    }
+  ]
+}
